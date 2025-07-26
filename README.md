@@ -1,4 +1,4 @@
-* **Starbucks Data Analysis** *
+# **Starbucks Data Analysis** 
 
 - Analyzed the nutritional content of Starbucks beverages using Python (Pandas, NumPy, Matplotlib, Seaborn) to uncover health-related insights.
 
